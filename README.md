@@ -14,13 +14,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jerald011003](https://github.com/Jerald011003)
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **jeraldbagsicsantillan@gmail.com**
 
 - 📄 Know about my experiences [https://jerald-about-me.vercel.app/](https://jerald-about-me.vercel.app/)
 
-- ⚡ Fun fact **I am Music Producer too**
+- ⚡ Fun fact **I am Music Producer too** [https://www.fiverr.com/jerald_francis](https://www.fiverr.com/jerald_francis)
 
 
 </p>
