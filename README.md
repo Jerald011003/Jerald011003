@@ -22,8 +22,7 @@
 
 - ⚡ Fun fact **I am Music Producer too**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerald011003&show_icons=true&locale=en&layout=compact" alt="jerald011003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerald011003&show_icons=true&locale=en" alt="jerald011003" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerald011003&show_icons=true&locale=en" alt="jerald011003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerald011003&" alt="jerald011003" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerald011003&" alt="jerald011003" /></p> -->
