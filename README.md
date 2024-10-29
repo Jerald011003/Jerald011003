@@ -1,4 +1,11 @@
+![Nexure Logo](/assets/Nexure_Logo.png)
+
 ## Hi there 👋
+
+### 🚀 Currently Building Nexure
+I'm working on creating **Nexure**, a company dedicated to inventing future technologies that empower businesses to grow. From web development to mobile app solutions, Nexure is all about shaping tomorrow’s digital landscape.
+
+---
 
 <!--
 **Jerald011003/jerald011003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
