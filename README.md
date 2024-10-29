@@ -1,4 +1,4 @@
-<img src="/assets/Nexure_Logo.png" alt="Nexure Logo" width="300" height="200">
+<img src="/assets/Nexure_Logo.png" alt="Nexure Logo" width="200" height="200">
 
 
 ### 🚀 Currently Building Nexure - Next Future
