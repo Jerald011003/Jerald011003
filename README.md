@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/Nexure_Logo.png" alt="Nexure Logo" width="300" height="auto">
+  <img src="/assets/Nexure_Logo.png" alt="Nexure Logo" width="150" height="auto">
 </p>
 
 ### 🚀 Currently Building Nexure - Next Future
